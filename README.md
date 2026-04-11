@@ -7,7 +7,7 @@
 Hola! Soy estudiante de Ingeniería de Sistemas. Bienvenido a mi proyecto.
 
 ## 🔗 Contacto & Redes
-*   **GitHub:** [@usuario](https://github.com)
+*   **GitHub:** moncayosimon35-coconut
 *   **Correo Personal:** moncayosimon35@gmail.com
 *   **Correo UNAB:** sjaimes371@unab.edu.co
     
