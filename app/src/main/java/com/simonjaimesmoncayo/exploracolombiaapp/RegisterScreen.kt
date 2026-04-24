@@ -295,10 +295,10 @@ fun RegisterField(
         TextField(
             value = value,
             onValueChange = onValueChange,
-            modifier = Modifier.fillMaxWidth().height(56.dp).clip(RoundedCornerShape(28.dp)),
+            modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(28.dp)),
             placeholder = { Text(placeholder, color = Color.Gray) },
             leadingIcon = { Icon(leadingIcon, contentDescription = null, tint = Color.Gray) },
-            // --- MOSTRAR EL ERROR DEBAJO DEL CAMPO ---
+            // se mostrara el erro debajo de lcampo
             isError = error.isNotEmpty(),
             supportingText = {
                 if (error.isNotEmpty()) {
